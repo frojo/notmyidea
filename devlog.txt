@@ -1,10 +1,105 @@
+now: get page of pentacles as a walking character?
+
+maybe this week is about how to snatch assets from games
+
+https://wiki.vg-resource.com/Unity/Model_Ripping
+https://github.com/imadr/Unity-game-hacking
+https://ci.appveyor.com/project/Perfare/assetstudio/branch/master/artifacts
+https://github.com/DerPopo/UABE/releases
+
+https://www.youtube.com/watch?v=l6Zxgb8SLKM
 
 
-hello world
+later:
 
+-
+-upload my assets to the shared frog asset folder
+-make my repos public
+-camera follow
+-NETWORKING
+-write over things with text
+
+
+-name it "it's better like that" or whatever tf basquiat says
+    - or "collection of atomized objects"
+-backgorund music
+-sound effects
+-get 3d models textured and rigged and walking somehow (maybe import into unity)
+- idle animatoins
+
+
+
+abby - promised man has some cool assets
+yangying
+momin -  meme game from cashout week
+nchima - car from cashout week?, spiders from worst nightmare
+
+
+mut - textures page of pentacles
+darwin - motorcycle game is cool, try floralgutter, nightmare blob
+ty - candles? worldview objs?
+katie -  kitties!! (accompaniment)
+jude - i love their glitch style, or maybe a shader from rain/reign, or wolf deer game from cashout week, all my pets are dead
+matt - i like the crows, that could be your player character
+
+
+audio: from darwin's motor game?? or from one of yangying's games. or from momin meme game
+
+
+
+============= journaling =============
+
+asset ripping is a cool thing that is unique to videogames
+
+i guess because of the way they are, a videogame file needs to have all of its assets more or less separated in the way that the designer understands them
+
+this is different from other forms of digital media, like a movie or a piece of digital art. when you export an image from photoshop, it flattens all the layers. an mp4 just has frame-by-frame data, it doesn't let you extract a filter and separate it from the frame.
+
+makes me think of that thing that lawra said about rooftop cop, about how there's a piece of code that nobody will ever see, but it's there and meaningful
+
+from a "meaningful practice" point of view, it's delightful to pay attention to your colleagues work on a deeper level. if you're looking to build a movement, culture, maybe asset ripping is a one process to help that
+
+people love to take things and use them in ways that they weren't intended for. speedrunners, bitsy hackers. a beautifully composed piece of art is wonderful in its totality. but it's also nice to take it apart, turn it on it's side, use it as a frisbee. computers and the internet were originally designed to be used for militaristic purposes, for use in clerical and administrative jobs. hacking them to be used for unintended purposes is core to computer art
+
+i mean, most of the time theres a meaning that the audience gets from a piece of art that is unintended from the artist. i believe its a lot more productive to make art when you realize that it's a waste of energy to try to predict/control how your audience will react to it.
+
+whenever i do this sort of thing, it always feels sort of wrong. i'm looking through an asset list right now for floral gutter, and there are assets that don't show up in the final game. the clip of basquiat painting over warhol's work and seeing that warhol is frustrated by it... i don't like that. in what i'm doing, i'm not defacing the original work, but there are other ways to hurt feelings it seems. i'm not sure if darwin would appreciate me including these assets in my game that they chose elide from theirs. again i'm reminded of the feelings from ghosting from the early experiments of the forest. 
+
+
+i wish there was an easy way to rip the data from a 3d character and put it in the flatgame
+
+the great tragedy of this week is how much i'm paying attention unity. i'm really gettinng intimate with it
+
+hm videos don't seem to be popping up on asset studio
+
+
+they are in the StreamingAssets folder though
+
+jsut learned what "stab" means in the context of videos
+
+
+
+============= end of journaling ====================
+
+
+# 11/12
+
+wanted to include rooftop cops thing but its 3 dollars... maybe i should but it and play it finally
+
+
+# 11/10
 
 
 initial ideas:
 - take a game that someone else has made (for prototype studio?) and edit it - kind of like ghosting
 - recreate I MADE A GAME WITH ZOMBIES IN IT
 - think more about "i can't tell what's good anymore"
+
+
+- background is one of darwin's videos (slap vid?)
+- player character...
+  - page of pentacles
+  - one of jude's characters
+- use jude's colors for a sort of glitch effect
+
+
